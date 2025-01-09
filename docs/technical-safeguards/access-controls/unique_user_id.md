@@ -4,10 +4,10 @@ parent: Access Controls (§ 164.312(a)(1))
 nav_order: 1
 ---
 
-**Reference: § 164.312(a)(2)(i)**
 
-
-**Required: yes**
+| Reference        | Name          | Required                              | Reference |
+|:-------------|:------------------|:--------------------------------------|----|
+|  § 164.312(a)(2)(i)           | UNIQUE USER IDENTIFICATION | <span style="color:red">**Yes**</span>|https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164/subpart-C/section-164.312|
 
 
 To comply with HIPAA's Security Rule, ensuring **unique user identification** is essential for controlling access to Electronic Protected Health Information (EPHI). This practice is critical for creating audit trails, enhancing security, and maintaining accountability within a healthcare system. Below are key best practices, examples, and scenarios for implementing unique user identification in a HIPAA-compliant 3-tier application and infrastructure.

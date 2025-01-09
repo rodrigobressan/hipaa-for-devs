@@ -1,7 +1,7 @@
 ---
 title: Access Controls (§ 164.312(a)(1))
 parent: Technical Safeguards
-nav_order: 6
+nav_order: 1
 ---
 
 The **Security Rule** under HIPAA defines **access** as the ability to view, change, or use information or systems. This rule specifies how access to Electronic Protected Health Information (EPHI) should be managed and controlled.
